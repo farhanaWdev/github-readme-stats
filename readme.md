@@ -150,7 +150,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 ```
 
-### Showing additional individual stats
+### Showing additional individual stats 
 
 You can pass a query parameter `&show=` to show any specific additional stats with comma-separated values.
 
